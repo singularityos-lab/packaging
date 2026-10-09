@@ -1,0 +1,7 @@
+/rpm/BUILD/
+/rpm/BUILDROOT/
+/rpm/RPMS/
+/rpm/SRPMS/
+/rpm/SOURCES/*.tar.*
+/rpm/SOURCES/*.crate
+__pycache__/

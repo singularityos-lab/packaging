@@ -1,0 +1,3 @@
+# Empty patch context lines keep their leading space.
+rpm/SOURCES/*.patch -whitespace
+rpm/SPECS/*.spec whitespace=-blank-at-eof
